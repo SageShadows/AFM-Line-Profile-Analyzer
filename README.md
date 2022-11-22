@@ -5,4 +5,4 @@ AFMProfileAnalyzer is a helper function that is extended by BatchAFMProfileAnaly
 Batch(...) takes into account individual line profiles but accepts large amounts of files. 
 Area_(...) does the same, but the input is 2N line profiles, where N is the number of individual nanosheets, and assumes that the data structure is comprised of pairs of line profiles for orthogonal lines over the same nanosheet.
 
-Subsequent information on code usage and algorithm can be found in the pptx slidedeck. 
+Subsequent information on code usage and algorithm can be found requested pptx slidedeck. 
